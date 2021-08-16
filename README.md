@@ -183,7 +183,7 @@ When complete, submit the file on BCS.
 
      - [List of Administrators](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/listofadmins.txt)
      
-     - [Breached list of Passwords](breached_passwords.txt)
+     - [Breached list of Passwords](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/breached_passwords.txt)
   
    - Hint: Refer back to the Burp Intruder activity `10_Brute_Force` from Day 3 for guidance.
  
