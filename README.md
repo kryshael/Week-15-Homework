@@ -181,7 +181,7 @@ When complete, submit the file on BCS.
 
    - You've been provided with a list of administrators and the breached passwords:
 
-     - [List of Administrators](listofadmins.txt)
+     - [List of Administrators](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/listofadmins.txt)
      
      - [Breached list of Passwords](breached_passwords.txt)
   
