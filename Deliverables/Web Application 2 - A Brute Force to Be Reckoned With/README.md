@@ -5,9 +5,7 @@
 ![WebApp2brute](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Screenshots/WebApp2brute.png)
 <br/><br/>
 
-We just learned that a bruce force attack is conducted by systematically attempting many user/password combinations.
-
-  - Note that developers can use several mitigation methods which developers to protect against a brute force attack:
+### Mitigation Methods
 
     - Require complex usernames and passwords.
 
