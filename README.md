@@ -102,13 +102,13 @@ When complete, submit the file on BCS.
 
    - Test the webpage by entering the IP address `8.8.8.8`. Press Submit to see the results display on the web application.
 
-     ![wd_hw2](Images/wd_hw2.png)
+     ![wd_hw2](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw2.png)
 
      - Behind the scenes, when you select Submit, the IP you type in the field is *injected* into a command that is run against the Replicants webserver. The specific command that ran on the webserver is `ping <IP>` and `8.8.8.8` is the field value that is injected into that command.
      
      - This process is no different than if we went to the command line and typed that same command: `ping 8.8.8.8`
 
-       ![wd_hw3](Images/wd_hw3.png)
+       ![wd_hw3](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw3.png)
 
 3. Test if we can manipulate the input to cause an unintended result.
 
@@ -122,7 +122,7 @@ When complete, submit the file on BCS.
   
    - Press Enter. Note the ping results are the results of the second `pwd` command:
 
-     ![wd_hw4](Images/wd_hw4.png)
+     ![wd_hw4](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw4.png)
 
     This type of injection attack is called **Command Injection**, and it is dependent on the web application taking user input to run a command against an operating system.
 
