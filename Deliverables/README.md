@@ -1,1 +1,1 @@
-### Please view each for deliverables for each exercise.
+### Please view each folder for deliverables for each exercise.
