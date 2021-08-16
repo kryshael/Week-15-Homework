@@ -146,7 +146,7 @@ When complete, submit the file on BCS.
   
     -  The page should look like the following:
 
-       ![wd_hw5](Images/wd_hw5.png)
+       ![wd_hw5](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw5.png)
 
     - Click "here" to install bWapp. (See the arrow in the previous screenshot.) 
     
@@ -156,18 +156,18 @@ When complete, submit the file on BCS.
 
       - Password: `bug`
 
-       ![wd_hw6](Images/wd_hw6.png)
+       ![wd_hw6](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw6.png)
 
  
     - This will take you to the following page:
 
-      ![wd_hw7](Images/wd_hw7.png)
+      ![wd_hw7](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw7.png)
 
     - To access the application where we will perform our activity, enter in the following URL: <http://192.168.13.35/ba_insecure_login_1.php>
 
       - This will take you to the following page:
 
-        ![wd_hw8](Images/wd_hw8.png)
+        ![wd_hw8](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw8.png)
 
 2. This page is an administrative web application that serves as a simple login page. An administrator enters their username and password and selects Login.
      
@@ -205,18 +205,18 @@ When complete, submit the file on BCS.
    
    - To access the BeEF GUI, right-click the first URL and select Open Link.
 
-     ![wd_hw10](Images/wd_hw10.png)
+     ![wd_hw10](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw10.png)
 
    - When the BeEF webpage opens, login with the following credentials:
      - Username: `beef`
      
      - Password: `feeb`
 
-     ![wd_hw11](Images/wd_hw11.png)
+     ![wd_hw11](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw11.png)
 
    - You have successfully completed the setup when you have reached the `BeEF Control Panel` shown in the image below:
 
-     ![wd_hw12](Images/wd_hw12.png)
+     ![wd_hw12](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw12.png)
 
 2. The Browser Exploitation Framework (BeEF) is a practical client-side attack tool that exploits vulnerabilities of web browsers to assess the security posture of a target.      
 
@@ -237,11 +237,11 @@ When complete, submit the file on BCS.
     
     - Click the second "here" to access the advanced version.  
      
-       ![wd_hw13](Images/wd_hw13.png)
+       ![wd_hw13](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw13.png)
 
     - This will open the following website, which has been infected with a BeEF hook.
 
-       ![wd_hw14](Images/wd_hw14.png)
+       ![wd_hw14](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw14.png)
 
     - Note that once you have pulled up this infected webpage, your browser has now been hooked!
 
@@ -251,7 +251,7 @@ When complete, submit the file on BCS.
 
       - Click on the browser `127.0.0.1` as indicated in the screenshot below.
 
-        ![wd_hw15](Images/wd_hw15.png)
+        ![wd_hw15](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw15.png)
 
       - Under the Details tab, we can see information about the infected browser. 
 
@@ -265,11 +265,11 @@ When complete, submit the file on BCS.
      
    - To access this exploit, select Google Phishing under Social Engineering.
 
-       ![wd_hw16](Images/wd_hw16.png)
+       ![wd_hw16](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw16.png)
 
    - After selecting this option, the description of the exploit and any dependencies or options are displayed in the panel on the right.
 
-       ![wd_hw17](Images/wd_hw17.png)
+       ![wd_hw17](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw17.png)
 
    - To launch the exploit, select Execute in the bottom right corner.
 
@@ -281,11 +281,11 @@ When complete, submit the file on BCS.
      - Username: `hackeruser`
      - Password: `hackerpass`
 
-       ![wd_hw18](Images/wd_hw18.png)
+       ![wd_hw18](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw18.png)
 
    - Return to the BeEF control panel. In the center panel, select the first option. Note that now on the right panel, the username and password have been captured by the attacker.
 
-     ![wd_hw19](Images/wd_hw19.png)
+     ![wd_hw19](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Vandyassets/wd_hw19.png)
 
 5. Now that you know how to use the BeEF tool, you'll use it to test the Replicants web application. You are tasked with using a stored XSS attack to inject a BeEF hook into Replicants' main website.
 
