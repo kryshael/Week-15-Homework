@@ -23,7 +23,7 @@
 ![WebApp3prettytheft](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Screenshots/WebApp3geolocation.png)
 <br/><br/>
 ### Mitigation Methods
-<br/><br/>
+<br/>
 - **Education**
   - Teach your users how to recognise strange links and how to identify phishing emails. Help them understand that the company stays in business because outsiders can't access confidential documents.
 - **Policy**
