@@ -39,5 +39,5 @@
 - **Scanning**
   - Upload untrusted executables and documents to an AV aggregation tool. This gives you a good early warning if the file is infected.
 <br/><br/><br/><br/><br/><br/>
-***refence***: *https://security.stackexchange.com/questions/22828/what-are-methods-for-preventing-browser-hooking-drive-by-downloads*
+***references***: *https://security.stackexchange.com/questions/22828/what-are-methods-for-preventing-browser-hooking-drive-by-downloads*
 
