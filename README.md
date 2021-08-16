@@ -62,7 +62,7 @@ When complete, submit the file on BCS.
       
       - The web page should look like the following:
 
-        [wd_hw1](https://vanderbilt.bootcampcontent.com/vanderbilt_coding_bootcamp/vu-virt-cyber-pt-04-2021-u-lol/-/raw/master/2-Homework/15-Web-Vulnerabilities-and-Hardening/Images/wd_hw1.png)
+        ![wd_hw1](https://vanderbilt.bootcampcontent.com/vanderbilt_coding_bootcamp/vu-virt-cyber-pt-04-2021-u-lol/-/raw/master/2-Homework/15-Web-Vulnerabilities-and-Hardening/Images/wd_hw1.png)
 
    **Note:** If you have any issues accessing this webpage,  refer to the Activity Setup steps we completed in the activity `06_SQL_Injection` on Day 1 of this unit. 
 
