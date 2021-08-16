@@ -9,3 +9,5 @@
 
 ![WebApp1passwd](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Screenshots/WebApp1passwd.png)
 
+
+![WebApp1hosts](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Screenshots/WebApp1hosts.png)
