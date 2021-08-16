@@ -10,7 +10,7 @@
 
 ![WebApp1hosts](https://github.com/kryshael/Week-15-Homework/blob/main/Assets/Screenshots/WebApp1hosts.png)
 <br/><br/>
-Because a directory traversal attack is conducted by using the dot-slash method to modify user input like the URL, methods to mitigate this attack include the following: 
+### Mitigation Methods
 
 - Limiting user input when calling for files from the web application.
 
